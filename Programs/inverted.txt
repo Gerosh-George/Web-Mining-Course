@@ -1,0 +1,56 @@
+14 : {'freq': 1, 'listing': [(1, 2)]}
+2019 : {'freq': 1, 'listing': [(1, 3)]}
+40 : {'freq': 1, 'listing': [(1, 25)]}
+a : {'freq': 3, 'listing': [(1, 4), (1, 17), (2, 8)]}
+air : {'freq': 1, 'listing': [(2, 2)]}
+and : {'freq': 2, 'listing': [(1, 14), (2, 22)]}
+attack : {'freq': 2, 'listing': [(1, 6), (2, 29)]}
+balakot : {'freq': 1, 'listing': [(2, 17)]}
+bomber : {'freq': 2, 'listing': [(1, 19), (2, 24)]}
+by : {'freq': 1, 'listing': [(1, 16)]}
+camp : {'freq': 1, 'listing': [(2, 12)]}
+carried : {'freq': 1, 'listing': [(1, 8)]}
+crpf : {'freq': 1, 'listing': [(1, 26)]}
+death : {'freq': 1, 'listing': [(1, 23)]}
+destroyed : {'freq': 1, 'listing': [(2, 7)]}
+down : {'freq': 1, 'listing': [(3, 5)]}
+early : {'freq': 1, 'listing': [(2, 4)]}
+eight : {'freq': 1, 'listing': [(2, 33)]}
+f-16 : {'freq': 1, 'listing': [(3, 8)]}
+february : {'freq': 1, 'listing': [(1, 1)]}
+fighter : {'freq': 1, 'listing': [(3, 9)]}
+force : {'freq': 1, 'listing': [(2, 3)]}
+iaf : {'freq': 1, 'listing': [(3, 0)]}
+in : {'freq': 5, 'listing': [(1, 10), (1, 12), (1, 21), (2, 16), (2, 27)]}
+indian : {'freq': 1, 'listing': [(2, 1)]}
+jaish-e-mohammed : {'freq': 1, 'listing': [(2, 15)]}
+jammu : {'freq': 1, 'listing': [(1, 13)]}
+jet : {'freq': 1, 'listing': [(3, 10)]}
+just : {'freq': 1, 'listing': [(2, 32)]}
+kashmir : {'freq': 1, 'listing': [(1, 15)]}
+killed : {'freq': 1, 'listing': [(2, 26)]}
+lasted : {'freq': 1, 'listing': [(2, 31)]}
+major : {'freq': 1, 'listing': [(2, 9)]}
+minutes : {'freq': 1, 'listing': [(2, 34)]}
+morning : {'freq': 1, 'listing': [(2, 6)]}
+of : {'freq': 3, 'listing': [(1, 24), (2, 13), (3, 3)]}
+on : {'freq': 1, 'listing': [(1, 0)]}
+out : {'freq': 1, 'listing': [(1, 9)]}
+pakistan : {'freq': 2, 'listing': [(2, 18), (3, 6)]}
+personnel : {'freq': 1, 'listing': [(1, 27)]}
+proofs : {'freq': 1, 'listing': [(3, 2)]}
+pulwama : {'freq': 1, 'listing': [(1, 11)]}
+releases : {'freq': 1, 'listing': [(3, 1)]}
+resulting : {'freq': 1, 'listing': [(1, 20)]}
+s : {'freq': 1, 'listing': [(3, 7)]}
+several : {'freq': 1, 'listing': [(2, 19)]}
+shooting : {'freq': 1, 'listing': [(3, 4)]}
+suicide : {'freq': 2, 'listing': [(1, 18), (2, 23)]}
+terror : {'freq': 3, 'listing': [(1, 5), (2, 10), (2, 20)]}
+that : {'freq': 1, 'listing': [(2, 30)]}
+the : {'freq': 4, 'listing': [(1, 22), (2, 0), (2, 14), (2, 28)]}
+trainers : {'freq': 1, 'listing': [(2, 21)]}
+training : {'freq': 1, 'listing': [(2, 11)]}
+tuesday : {'freq': 1, 'listing': [(2, 5)]}
+was : {'freq': 1, 'listing': [(1, 7)]}
+were : {'freq': 1, 'listing': [(2, 25)]}

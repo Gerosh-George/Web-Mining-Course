@@ -1,0 +1,374 @@
+{
+    "main": "https://www.w3schools.com/",
+    "extras": [
+        "javascript:void(0)",
+        "javascript:void(0)",
+        "javascript:void(0)",
+        "javascript:void(0)",
+        "javascript:void(0)",
+        "javascript:void(0)",
+        "javascript:void(0)",
+        "javascript:void(0)",
+        "javascript:void(0)",
+        "javascript:void(0)",
+        "javascript:void(0)",
+        "javascript:void(0)",
+        "javascript:void(0)"
+    ],
+    "/": {
+        "favicon.ico": {},
+        "lib": {
+            "fonts": {
+                "fontawesome.woff2?14663396": {},
+                "source-code-pro-v14-latin-regular.woff2": {},
+                "roboto-mono-v13-latin-500.woff2": {},
+                "source-sans-pro-v14-latin-700.woff2": {},
+                "source-sans-pro-v14-latin-600.woff2": {},
+                "freckle-face-v9-latin-regular.woff2": {}
+            },
+            "w3schools28.css": {}
+        },
+        "cert": {
+            "default.asp": {},
+            "cert_html_new.asp": {},
+            "cert_css.asp": {},
+            "cert_javascript.asp": {},
+            "cert_sql.asp": {},
+            "cert_php.asp": {},
+            "cert_python.asp": {},
+            "cert_bootstrap.asp": {},
+            "cert_jquery.asp": {},
+            "cert_xml.asp": {}
+        },
+        "html": {
+            "default.asp": {},
+            "html_exercises.asp": {},
+            "html_quiz.asp": {},
+            "tryit.asp?filename=tryhtml_default_default": {}
+        },
+        "css": {
+            "default.asp": {},
+            "css_rwd_intro.asp": {},
+            "css_exercises.asp": {},
+            "css_quiz.asp": {},
+            "tryit.asp?filename=trycss_default": {}
+        },
+        "bootstrap": {
+            "bootstrap_ver.asp": {},
+            "bootstrap_ref_all_classes.asp": {},
+            "bootstrap_exercises.asp": {},
+            "bootstrap_quiz.asp": {},
+            "default.asp": {}
+        },
+        "w3css": {
+            "default.asp": {},
+            "w3css_templates.asp": {},
+            "w3css_references.asp": {}
+        },
+        "colors": {
+            "default.asp": {},
+            "colors_picker.asp": {}
+        },
+        "icons": {
+            "default.asp": {},
+            "icons_reference.asp": {}
+        },
+        "graphics": {
+            "default.asp": {},
+            "svg_intro.asp": {},
+            "canvas_intro.asp": {},
+            "svg_reference.asp": {},
+            "google_maps_reference.asp": {}
+        },
+        "howto": {
+            "default.asp": {}
+        },
+        "sass": {
+            "default.php": {},
+            "sass_functions_string.php": {}
+        },
+        "ai": {
+            "default.asp": {}
+        },
+        "python": {
+            "python_ml_getting_started.asp": {},
+            "numpy": {
+                "default.asp": {},
+                "numpy_exercises.asp": {},
+                "numpy_quiz.asp": {}
+            },
+            "pandas": {
+                "default.asp": {},
+                "pandas_exercises.asp": {},
+                "pandas_quiz.asp": {}
+            },
+            "scipy": {
+                "index.php": {},
+                "scipy_exercises.php": {},
+                "scipy_quiz.php": {}
+            },
+            "matplotlib_intro.asp": {},
+            "default.asp": {},
+            "python_reference.asp": {},
+            "python_exercises.asp": {},
+            "python_quiz.asp": {},
+            "trypython.asp?filename=demo_indentation": {}
+        },
+        "datascience": {
+            "default.asp": {}
+        },
+        "statistics": {
+            "index.php": {}
+        },
+        "excel": {
+            "index.php": {}
+        },
+        "googlesheets": {
+            "index.php": {}
+        },
+        "xml": {
+            "default.asp": {},
+            "ajax_intro.asp": {},
+            "dom_intro.asp": {},
+            "xml_dtd_intro.asp": {},
+            "schema_intro.asp": {},
+            "xsl_intro.asp": {},
+            "xpath_intro.asp": {},
+            "xquery_intro.asp": {},
+            "dom_nodetype.asp": {},
+            "dom_http.asp": {},
+            "xsl_elementref.asp": {},
+            "schema_elements_ref.asp": {},
+            "xml_quiz.asp": {}
+        },
+        "js": {
+            "default.asp": {},
+            "js_json_intro.asp": {},
+            "js_ajax_intro.asp": {},
+            "js_exercises.asp": {},
+            "js_quiz.asp": {},
+            "tryit.asp?filename=tryjs_default": {},
+            "js_json.asp": {}
+        },
+        "jquery": {
+            "default.asp": {},
+            "jquery_ref_overview.asp": {},
+            "jquery_exercises.asp": {},
+            "jquery_quiz.asp": {}
+        },
+        "react": {
+            "default.asp": {}
+        },
+        "angular": {
+            "default.asp": {},
+            "angular_ref_directives.asp": {}
+        },
+        "appml": {
+            "default.asp": {},
+            "appml_reference.asp": {}
+        },
+        "w3js": {
+            "default.asp": {},
+            "w3js_references.asp": {}
+        },
+        "java": {
+            "default.asp": {},
+            "java_ref_keywords.asp": {},
+            "java_exercises.asp": {},
+            "java_quiz.asp": {}
+        },
+        "cpp": {
+            "default.asp": {},
+            "cpp_exercises.asp": {},
+            "cpp_quiz.asp": {}
+        },
+        "cs": {
+            "index.php": {},
+            "cs_exercises.asp": {},
+            "cs_quiz.asp": {}
+        },
+        "r": {
+            "default.asp": {},
+            "r_exercises.asp": {},
+            "r_quiz.asp": {}
+        },
+        "kotlin": {
+            "index.php": {},
+            "kotlin_exercises.php": {}
+        },
+        "go": {
+            "index.php": {},
+            "go_exercises.php": {}
+        },
+        "sql": {
+            "default.asp": {},
+            "sql_ref_keywords.asp": {},
+            "sql_exercises.asp": {},
+            "sql_quiz.asp": {},
+            "trysql.asp?filename=trysql_select_where": {}
+        },
+        "mysql": {
+            "default.asp": {},
+            "mysql_ref_functions.asp": {},
+            "mysql_exercises.asp": {},
+            "mysql_quiz.asp": {}
+        },
+        "php": {
+            "default.asp": {},
+            "php_ref_overview.asp": {},
+            "php_exercises.asp": {},
+            "php_quiz.asp": {}
+        },
+        "asp": {
+            "default.asp": {},
+            "asp_ref_response.asp": {}
+        },
+        "nodejs": {
+            "default.asp": {},
+            "nodejs_raspberrypi.asp": {}
+        },
+        "git": {
+            "default.asp": {},
+            "git_exercises.asp": {}
+        },
+        "browsers": {
+            "default.asp": {}
+        },
+        "tryit": {
+            "default.asp": {}
+        },
+        "whatis": {
+            "default.asp": {}
+        },
+        "typingspeed": {
+            "default.asp": {}
+        },
+        "codegame": {
+            "index.html": {}
+        },
+        "cybersecurity": {
+            "index.php": {},
+            "cybersecurity_quiz.php": {}
+        },
+        "accessibility": {
+            "index.php": {},
+            "accessibility_quiz.php": {}
+        },
+        "tags": {
+            "default.asp": {},
+            "ref_html_browsersupport.asp": {},
+            "ref_eventattributes.asp": {},
+            "ref_attributes.asp": {},
+            "ref_canvas.asp": {}
+        },
+        "cssref": {
+            "default.asp": {},
+            "css3_browsersupport.asp": {},
+            "css_selectors.asp": {}
+        },
+        "bootstrap4": {
+            "bootstrap_ref_all_classes.asp": {},
+            "bootstrap_exercises.asp": {},
+            "bootstrap_quiz.asp": {},
+            "default.asp": {}
+        },
+        "jsref": {
+            "default.asp": {}
+        },
+        "charsets": {
+            "default.asp": {},
+            "ref_html_ascii.asp": {},
+            "ref_html_ansi.asp": {},
+            "ref_html_8859.asp": {},
+            "ref_html_symbols.asp": {},
+            "ref_html_utf8.asp": {}
+        },
+        "exercises": {
+            "index.php": {}
+        },
+        "quiztest": {
+            "default.asp": {}
+        },
+        "forum": {
+            "default.asp": {}
+        },
+        "about": {
+            "default.asp": {},
+            "about_copyright.asp": {},
+            "about_privacy.asp": {}
+        }
+    },
+    "https": {
+        "www.w3schools.com": {
+            "videos": {
+                "index.php": {}
+            },
+            "spaces": {}
+        },
+        "profile.w3schools.com": {
+            "log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com": {},
+            "log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com%2F": {}
+        },
+        "courses.w3schools.com": {
+            "courses": {
+                "html": {},
+                "css": {},
+                "javascript": {},
+                "sql": {},
+                "python": {},
+                "numpy-fundamentals": {},
+                "pandas-fundamentals": {},
+                "jquery": {},
+                "php": {},
+                "java": {},
+                "cplusplus": {},
+                "c-sharp": {},
+                "xml": {},
+                "r-fundamentals": {},
+                "introduction-to-cyber-security": {},
+                "accessibility-fundamentals": {}
+            },
+            "programs": {
+                "front-end": {},
+                "data-analytics": {}
+            },
+            "browse": {
+                "certifications": {
+                    "courses": {
+                        "html-certification-exam": {},
+                        "css-certification-exam": {},
+                        "javascript-certification-exam": {},
+                        "front-end-certification-exam": {},
+                        "sql-certification-exam": {},
+                        "python-certificaftion-exam": {},
+                        "data-science-certification-exam": {},
+                        "bootstrap-3-certification-exam": {},
+                        "bootstrap-4-certification-exam": {},
+                        "jquery-certification-exam": {},
+                        "php-certification-exam": {},
+                        "java-certification-exam": {},
+                        "c-certification-exam": {},
+                        "xml-certification-exam": {}
+                    }
+                }
+            }
+        },
+        "shop.w3schools.com": {},
+        "www.linkedin.com": {
+            "company": {
+                "w3schools.com": {}
+            }
+        },
+        "www.instagram.com": {
+            "w3schools.com_official": {}
+        },
+        "www.facebook.com": {
+            "w3schoolscom": {}
+        },
+        "mypage.w3schools.com": {
+            "mypage": {
+                "default.php": {}
+            }
+        }
+    }
+}
