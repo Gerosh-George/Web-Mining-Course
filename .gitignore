@@ -1,0 +1,4 @@
+Programs/__pycache__
+Programs/pages/*
+Programs/venv
+Programs/.vscode
